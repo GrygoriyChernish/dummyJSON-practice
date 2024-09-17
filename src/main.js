@@ -14,3 +14,4 @@ document.addEventListener('DOMContentLoaded', async evt => {
 
 refs.recipesList.addEventListener('click', onRecipesItemClick);
 refs.backdrop.addEventListener('click', onBackdropClick);
+console.log('asdasdasd');
